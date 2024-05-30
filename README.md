@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="[linkedin.com/in/manoranjansahoo1221](https://www.linkedin.com/in/manoranjansahoo1221/)">
+  <a href="[[linkedin.com/in/manoranjansahoo1221](https://www.linkedin.com/in/manoranjansahoo1221/](https://www.linkedin.com/in/alan-james-74926024b))">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
