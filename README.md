@@ -51,7 +51,7 @@ ___
 </p>
 
 ### 🌟 Achievement Badges 🏆️
-[![An image of @alanjames00's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alanjames00)](https://holopin.io/@alanjames00)
+[![An image of @Manoranjanhere's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Manoranjanhere)](https://holopin.io/@Manoranjanhere)
 
 
 ### Random Programming Jokes
