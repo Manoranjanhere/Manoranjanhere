@@ -16,11 +16,28 @@
 <center>
 <div style="text-align: center;">
   
+  
 ### Hi there 👋
 
 ### I'm Manoranjan Sahoo. A Web Developer from India.
 
 </div>
+
+
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 ### 👑 GitHub Status
 ___
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoranjanhere&show_icons=true&theme=dark)
@@ -29,12 +46,12 @@ ___
 ### Tools I Work With
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,bootstrap,cpp,express,firebase,linux,mongodb,netlify,nodejs,postman,py,vercel,jquery,react,vite,angular,tailwind,ts,nextjs,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,docker,c,vim,arduino,bash,bootstrap,cpp,express,firebase,aws,cloudflare,linux,mongodb,netlify,nodejs,postman,py,raspberrypi,arch,vercel,gcp,nginx,jquery,react,vite,angular,tailwind,ts,workers,nextjs,postgres,planetscale,mysql" />
   </a>
 </p>
 
 ### 🌟 Achievement Badges 🏆️
-[![An image of @Manoranjanhere's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Manoranjanhere)](https://holopin.io/@Manoranjanhere)
+[![An image of @alanjames00's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alanjames00)](https://holopin.io/@alanjames00)
 
 
 ### Random Programming Jokes
