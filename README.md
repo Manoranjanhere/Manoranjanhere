@@ -1,7 +1,6 @@
 
 
-<div id="header" align="center">
-<iframe src="https://giphy.com/embed/4sZjohRLVUZqD4W4XD" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-innocrew-4sZjohRLVUZqD4W4XD">via GIPHY</a></p></div>
+<iframe src="https://giphy.com/embed/4sZjohRLVUZqD4W4XD" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-innocrew-4sZjohRLVUZqD4W4XD">via GIPHY</a></p>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/manoranjansahoo1221">
